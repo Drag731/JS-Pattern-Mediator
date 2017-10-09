@@ -1,1 +1,1 @@
-jQuery popup
+JS Pattern Mediator
